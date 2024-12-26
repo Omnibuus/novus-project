@@ -1,0 +1,68 @@
+/* Global Styles */
+body {
+    font-family: 'Roboto', sans-serif; /* Make sure this matches your Figma design */
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa;
+  }
+  
+
+  
+  
+  body{
+    background-color: black;
+}
+main{
+    background-color: white;
+    margin-left: 145px;
+    margin-right: 145px;
+    margin-top: 0;
+    height: 340px;
+    padding-top: 200px;
+}
+.container{
+    border: 9px solid whitesmoke;
+    background-color: #a2a8d3;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: -45px;
+    margin-bottom: 150px;
+    height: 140px;
+    padding-bottom: 200px;
+    padding-top:px;
+}
+.inner-container{
+    background-color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+
+.top-half{
+    background-color: #dedede;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    
+    padding-bottom: 110px;
+    
+
+}
+.lower-half{
+    padding-left: 15px;
+    padding-bottom:-50px;
+    font-size: 13px;
+    font-weight: bolder;
+}
+h4{
+    background-color: #f2dea4;
+    width: 150px;
+    border-radius: 5px;
+    border-top-right-radius: 50px;
+}
+span{
+    color: grey;
+    font-size: 13px;
+}
+  
